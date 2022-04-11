@@ -1,0 +1,16 @@
+/home/royxue/Desktop/csharp/ListsHW/obj/Debug/net5.0/ListsHW.csproj.AssemblyReference.cache
+/home/royxue/Desktop/csharp/ListsHW/obj/Debug/net5.0/ListsHW.GeneratedMSBuildEditorConfig.editorconfig
+/home/royxue/Desktop/csharp/ListsHW/obj/Debug/net5.0/ListsHW.AssemblyInfoInputs.cache
+/home/royxue/Desktop/csharp/ListsHW/obj/Debug/net5.0/ListsHW.AssemblyInfo.cs
+/home/royxue/Desktop/csharp/ListsHW/obj/Debug/net5.0/ListsHW.csproj.CoreCompileInputs.cache
+/home/royxue/Desktop/csharp/ListsHW/bin/Debug/net5.0/ListsHW
+/home/royxue/Desktop/csharp/ListsHW/bin/Debug/net5.0/ListsHW.deps.json
+/home/royxue/Desktop/csharp/ListsHW/bin/Debug/net5.0/ListsHW.runtimeconfig.json
+/home/royxue/Desktop/csharp/ListsHW/bin/Debug/net5.0/ListsHW.runtimeconfig.dev.json
+/home/royxue/Desktop/csharp/ListsHW/bin/Debug/net5.0/ListsHW.dll
+/home/royxue/Desktop/csharp/ListsHW/bin/Debug/net5.0/ListsHW.pdb
+/home/royxue/Desktop/csharp/ListsHW/obj/Debug/net5.0/ListsHW.dll
+/home/royxue/Desktop/csharp/ListsHW/obj/Debug/net5.0/refint/ListsHW.dll
+/home/royxue/Desktop/csharp/ListsHW/obj/Debug/net5.0/ListsHW.pdb
+/home/royxue/Desktop/csharp/ListsHW/obj/Debug/net5.0/ListsHW.genruntimeconfig.cache
+/home/royxue/Desktop/csharp/ListsHW/obj/Debug/net5.0/ref/ListsHW.dll
